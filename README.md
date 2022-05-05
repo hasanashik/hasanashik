@@ -19,13 +19,13 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-	<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> </a>
-	<a href="https://e.huawei.com/en/products/enterprise-networking/routers" target="_blank"> <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-huawei-technologies-company-a-chinese-multinational-technology-provides-telecommunications-equipment-and-consumer-electronics-logo-color-tal-revivo.png"/> </a>
-	<a href="https://www.cisco.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/network.png"/> </a>
-	<a href="https://ubuntu.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://github.com/hasanashik/hasanashik/blob/main/img/python.png"/> </a> 
+	<a href="https://www.postgresql.org/" target="_blank"> <img src="https://github.com/hasanashik/hasanashik/blob/main/img/postgreesql.png"/> </a>
+	<a href="https://e.huawei.com/en/products/enterprise-networking/routers" target="_blank"> <img src="https://github.com/hasanashik/hasanashik/blob/main/img/external-huawei-technologies-company-a-chinese-multinational-technology-provides-telecommunications-equipment-and-consumer-electronics-logo-color-tal-revivo.png"/> </a>
+	<a href="https://www.cisco.com/" target="_blank"> <img src="https://github.com/hasanashik/hasanashik/blob/main/img/network.png"/> </a>
+	<a href="https://ubuntu.com/" target="_blank"> <img src="https://github.com/hasanashik/hasanashik/blob/main/img/linux--v1.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://github.com/hasanashik/hasanashik/blob/main/img/mysql-logo.png"/> </a>
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/hasanashik/hasanashik/blob/main/img/git.png"/> </a> 
 </p>
 <br/>
 
