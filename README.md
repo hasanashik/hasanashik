@@ -10,8 +10,8 @@ Skills: Python / CCNA / Linux / Git / Django
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasanashik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Total visitors:
-[![Visitor Count](https://profile-counter.glitch.me/{hasanashik}/count.svg)
+Total visit in this page:
+![Visit Count](https://profile-counter.glitch.me/{hasanashik}/count.svg)
 
 
 
