@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Run commands in network devices from Telegram messeging App project using python.](https://autonetmate.com/nms/contact-directly-cisco-and-huawei-switch-routers-through-telegram-messaging-app/)**
+- 🔭 I’m Computer Network engineer and currently working on **[Run commands in network devices from Telegram messaging App project using python.](https://autonetmate.com/nms/contact-directly-cisco-and-huawei-switch-routers-through-telegram-messaging-app/)**
 
 - 🌱 I’m currently learning **Devnet, SDN and Packet Analysis.**
 
