@@ -2,7 +2,7 @@
 #### Love to learn and tinker.
 ![Love to learn and tinker.](https://autonetmate.com/wp-content/uploads/2022/05/1631448833062.jpg)
 
-Traditional computer network troubleshooting is changing using modern monitoring tools and other northbound interfaces. I love to develop python scripts to automate regular networking tasks, develop Django projects and Telemetry based monitoring tools.
+Traditional computer network troubleshooting is changing using modern monitoring tools and other northbound interfaces. I love to develop python scripts to automate regular networking tasks, develop Django projects and Telemetry based monitoring tools, develop Ansible playbook to automate some tasks on Linux server, Cisco andHuawei routers.
 
 Skills: Python / CCNA / Linux / Git / Django
 
