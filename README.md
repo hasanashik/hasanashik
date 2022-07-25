@@ -8,13 +8,13 @@
 
 - 🔭 Implementing ideas into reality using several technologies and programming languages enthuse me for working any challenging and creative project. I’m currently working at a reputed telecom company as a network automation engineer. One of my key accomplishments in my current role is to develop Telemetry based monitoring using TIG stack which helps the network operation team to find precise root cause using high resolution matrix from devices. I am currently working on SDN R&D using controller like OpenDaylight and openflow supported devices.
 
-- 🌱 I’m currently learning **Devnet, SDN and Packet Analysis.**
+- 🌱 I’m currently learning **Java, Python, Django, REST API, REST Assured, Devnet & SDN.**
 
-- 👯 I’m looking to collaborate on **Network Automation related OpenSource Projects**
+- 👯 I’m looking to collaborate on **Automation related Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://sites.google.com/view/hasan-uz-zaman-ashik/home)**
 
-- ⚡ Fun fact **I love to play mobile games and Chess.**
+- ⚡ Fun fact **I love to read books.**
 
 ## 🚀 Languages and Tools:
 
