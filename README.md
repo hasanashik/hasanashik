@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m Computer Network Automation engineer working in a reputed telecom industry in Bangladesh. I'm currently working on **[Run commands in network devices from Telegram messaging App project using python.](https://autonetmate.com/nms/contact-directly-cisco-and-huawei-switch-routers-through-telegram-messaging-app/)**
+- 🔭 Implementing ideas into reality using several technologies and programming languages enthuse me for working any challenging and creative project. I’m currently working at a reputed telecom company as a network automation engineer. One of my key accomplishments in my current role is to develop Telemetry based monitoring using TIG stack which helps the network operation team to find precise root cause using high resolution matrix from devices. I am currently working on SDN R&D using controller like OpenDaylight and openflow supported devices.
 
 - 🌱 I’m currently learning **Devnet, SDN and Packet Analysis.**
 
